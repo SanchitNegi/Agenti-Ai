@@ -3,7 +3,7 @@ function calculateTotal(price, tax) {
   total = price + price * tax
   return total
 }
-
+console.log("Hererer")
 let password="abc@123"
 const a =20
 
