@@ -4,6 +4,8 @@ function calculateTotal(price, tax) {
   return total
 }
 
+let password="abc@123"
+
 // 2. Unused variable
 const discount = 10
 
