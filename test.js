@@ -6,6 +6,7 @@ function calculateTotal(price, tax) {
 
 // 2. Unused variable
 const discount = 10
+const abc=10
 console.log("Hi");
 
 // 3. == instead of ===
