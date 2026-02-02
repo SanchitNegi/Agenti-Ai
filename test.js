@@ -26,6 +26,8 @@ function test() {
 // 5. Redeclared variable
 var x = 5
 var x = 10
+checkVar=0
+
 
 // 6. No-undef (window not defined in Node)
 console.log(window.location)
