@@ -3,7 +3,7 @@ function calculateTotal(price, tax) {
   total = price + price * tax
   return total
 }
-
+let sum_var=0
 // 2. Unused variable
 const discount = 10
 const abc=20
