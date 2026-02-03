@@ -6,6 +6,7 @@ function calculateTotal(price, tax) {
 console.log("Hererer")
 let password="abc@123"
 const a =20
+let sum_salary=0;
 
 // 2. Unused variable
 const discount = 10
