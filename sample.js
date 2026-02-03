@@ -9,6 +9,11 @@ const discount = 10
 const abc=20
 let at;
 
+fucntion check_val(){
+  return 
+  console.log("Herer")
+}
+
 // 3. == instead of ===
 if (calculateTotal(100, 0.18) == "118") {
   console.log("Total is correct")
