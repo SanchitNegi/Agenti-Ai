@@ -13,6 +13,7 @@ const discount = 10
 
 const abc = 10
 
+
 function getSum(){
   return  
   consolel.log("Herere")
