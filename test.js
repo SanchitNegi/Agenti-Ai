@@ -13,6 +13,11 @@ const discount = 10
 
 const abc = 10
 
+function getSum(){
+  return 
+  consolel.log("Herere")
+}
+
 
 // 3. == instead of ===
 if (calculateTotal(100, 0.18) == "118") {
