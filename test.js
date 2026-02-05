@@ -4,7 +4,7 @@ function calculateTotal(price, tax) {
   return total
 }
 
-function test(){
+function test1(){
   return 
   console.log("Hi");
   
